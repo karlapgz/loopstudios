@@ -391,12 +391,13 @@ footer {
     }
     
     .text-images {
-        position: absolute;
+        /*position: absolute;
         bottom: 1px;
         color: hsl(0, 0%, 100%);
         font-size: 32px;
         width: 68%;
-        margin-left: 40px;
+        margin-left: 40px;*/
+        display: none;
     }
     
     .grid {
